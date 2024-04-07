@@ -55,11 +55,17 @@ ul li a {
 }
 
 .header__heading {
+    font-size: 4rem;
+    font-family: var(--main-font);
+}
+
+.header__sub-headings {
     width: 70%;
     font-family: var(--secondary-font);
     color: rgb(82, 82, 82);
     margin: 20px 0;
 }
+
 
 /* Section One End */
 
