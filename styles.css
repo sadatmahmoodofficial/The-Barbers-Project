@@ -66,6 +66,48 @@ ul li a {
     margin: 20px 0;
 }
 
+.header__img-container {
+    width: 30%;
+    height: 50vh;
+    position: relative;
+}
+
+.img-one {
+    position: absolute;
+    left: 10rem;
+}
+
+.img-two {
+    position: absolute;
+    left: 3rem;
+    top: 8rem;
+}
+
+.header__img {
+    width: 200px;
+    height: 300px;
+}
+
+.main-btn {
+    padding: 10px 20px;
+    text-decoration: none;
+    background: var(--main-color);
+    color: #fff;
+    font-family: var(--secondary-font);
+}
 
 /* Section One End */
 
+/* Experience Start */
+
+.experience {
+    height: 90vh;
+    margin-left: 5rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10rem;
+}
+
+/* Experience End */
