@@ -128,3 +128,68 @@ ul li a {
 }
 
 /* Experience End */
+
+
+/* Social Media Section Start */
+
+.social-media {
+    margin: 5rem;
+}
+
+.sm-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 10rem;
+}
+
+.follow {
+    padding: 20px;
+    background: var(--main-color);
+    color: #fff;
+    font-family: var(--secondary-font);
+    font-weight: bold;
+    margin-right: 3rem;
+    text-align: center;
+}
+
+/* Social Media Section End */
+
+/* Hero Start */
+
+.hero {
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero-container {
+    width: 70%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero-img-container {
+    background: url(Img/taylor-bdYJWXg4pK4-unsplash.jpg);
+    background-size: cover;
+    background-position: top;
+    width: 300px;
+    height: 400px;
+}
+
+.hero__sub-headings {
+    width: 400px;
+}
+
+.hero__content {
+    margin-left: 6rem;
+}
+
+/* Hero End */
+
